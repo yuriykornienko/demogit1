@@ -2,6 +2,10 @@ jhgdfhgrg
 jgndkjfgnk
 jndfsjk;ldfn56985
 6580924
+<<<<<<< HEAD
 
 
 ffffffff589tghergh85tghe
+=======
+11111111111111111111111111
+>>>>>>> 287b034 (2vetka11)
